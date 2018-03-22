@@ -1,0 +1,44 @@
+ h1 {    
+ background: linear-gradient(red,purple, blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 60px;
+  line-height: 70px;
+}
+h2{
+ background: linear-gradient(to right , blue, green, black, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 30px;
+  line-height: 65px;
+  font-family:"Castellar";
+}
+body{
+text-align:center;
+background:radial-gradient(circle, red, yellow, green);
+}
+canvas{
+  width:30%;
+  height:auto;
+  border: 2px solid black;
+  border-radius:25%;
+  background: linear-gradient(red, Gold, green,Gold, red);
+}
+p{
+  font-size:20px;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  font-family:Copperplate Gothic;
+}
+.buttons{
+  font-size:15px;
+  border-radius: 50%;
+  border:1px solid  yellow;
+  width: 100px;
+  height:40px;
+  -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+}
+.buttons:hover{
+  background-color:FireBrick  ;
+    color: white;
+}
