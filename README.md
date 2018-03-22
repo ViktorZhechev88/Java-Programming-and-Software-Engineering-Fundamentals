@@ -12,7 +12,7 @@ Centered around projects, this Specialization will help you create a portfolio o
 
 ## Courses
 
-### Programming Foundations with JavaScript, HTML and CSS
+1.  Programming Foundations with JavaScript, HTML and CSS
 
 #### About the Course
 Learn foundational programming concepts (e.g., functions, for loops, conditional statements) and how to solve problems like a programmer. In addition, learn basic web development as you build web pages using HTML, CSS, JavaScript. By the end of the course, will create a web page where others can upload their images and apply image filters that you create.
@@ -25,7 +25,7 @@ After completing this course, you will be able to:
 4. Add styles to a web page with CSS IDs and classes; and
 5. Make a web page interactive with JavaScript commands like alert, onClick, onChange, adding input features like an image canvas, button, and slider.
 
-### Java Programming: Solving Problems with Software
+2. Java Programming: Solving Problems with Software
 
 #### About the Course
 
@@ -42,7 +42,7 @@ After completing this course you will be able to:
 7. Create a class with multiple methods that work together to solve a problem; and
 8. Use divide-and-conquer design techniques for a program that uses multiple methods.
 
-### Java Programming: Arrays, Lists, and Structured Data
+3. Java Programming: Arrays, Lists, and Structured Data
 
 #### About the Course
 
@@ -57,7 +57,7 @@ After completing this course, you will be able to:
 5. Combine multiple classes to solve larger problems;
 6. Use iterables and collections (including maps) in Java.
 
-### Java Programming: Principles of Software Design
+4. Java Programming: Principles of Software Design
 
 #### About the Course
 
@@ -76,7 +76,7 @@ After completing this course, you will be able to:
 9. Recognize the limitations of algorithms and Java programs in solving problems.
 10. Recognize standard Java classes and idioms including exception-handling, static methods, java.net, and java.io packages.
 
-### Java Programming: Build a Recommendation System
+5. Java Programming: Build a Recommendation System
 
 #### About the Capstone Project
 
