@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tester
+comment1.params=fileName\ key
+comment1.target=void\ testCaesarCipher(java.lang.String,\ int)
+comment2.params=fileName\ mostCommon
+comment2.target=void\ testCaesarCracker(java.lang.String,\ char)
+comment3.params=fileName\ key
+comment3.target=void\ testVigenereCipher(java.lang.String,\ int[])
+comment4.params=input\ whichSlice\ totalSlices\ expected
+comment4.target=void\ testSliceString(java.lang.String,\ int,\ int,\ java.lang.String)
+comment5.params=
+comment5.target=void\ testSliceStringBattery()
+comment6.params=fileName\ klength\ mostCommon\ expectedKey
+comment6.target=void\ testTryKeyLength(java.lang.String,\ int,\ char,\ int[])
+comment7.params=
+comment7.target=void\ testTryKeyLengthBattery()
+comment8.params=
+comment8.target=void\ quiz()
+numComments=9
